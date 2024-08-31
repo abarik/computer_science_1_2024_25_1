@@ -24,7 +24,7 @@ Active participation is an important part of this class. Attendance are required
 
 ## Assessment and Grades {#assessment}
 
-During the semester there will be 4 homework assignments and one project. Extra points can be earned by working in class, presenting a Kahoot! test or winning a Kahoot! test (3 points each).
+During the semester there will be 4 homework assignments and one project. In the @tbl-pd you can see the details of the homework assignments and the project. The project will be presented in the last class. The @tbl-pd also shows the deadlines for the homework assignments and the project.
 
 +---------------------------------+------------+-------------------------------------------------------------------+-----------------------------------+
 | Components                      | Points     | Links                                                             | Dates                             |
@@ -58,7 +58,7 @@ During the semester there will be 4 homework assignments and one project. Extra 
 | **TOTAL**                       | 100        |                                                                   |                                   |
 +---------------------------------+------------+-------------------------------------------------------------------+-----------------------------------+
 
-: Points and deadlines {.striped .hover .w-auto .mx-auto}
+: Points and deadlines {#tbl-pd .striped .hover .w-auto .mx-auto}
 
 [^syllabus-1]: Hint: [My solution of Homework 1](homework/homework_1_example.html)
 
@@ -70,6 +70,96 @@ During the semester there will be 4 homework assignments and one project. Extra 
 
 [^syllabus-5]: Hint: [My solution of Project final artifact](homework/pfa_XYZ123_example.html). [My solution of The answer](homework/pfa_XYZ123_example.pptx).
 
+Many ways to earn **extra points**, which are added to the points shown in the @tbl-pd. Extra points can be earned in the following ways:
+
+- active participation in class (up to 5 points)
+- making and presenting a Kahoot! test (3 points each)
+- winning a Kahoot! test (3 points each)
+- sending a solution of a lab
+
+    - Lab 01
+    
+        - Problem 1: up to 1 point ([link](labs/CS_1_lab_01_files.html#sec-problem-1))
+        - Problem 2: up to 1 point ([link](labs/CS_1_lab_01_files.html#sec-problem-2))
+        - Problem 3: up to 2 points ([link](labs/CS_1_lab_01_files.html#sec-problem-3))
+        
+    - Lab 02
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_02_rstudio.html#sec-problem-1))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_02_rstudio.html#sec-problem-2))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_02_rstudio.html#sec-problem-3))
+        - Problem 4: up to 3 points ([link](labs/CS_1_lab_02_rstudio.html#sec-problem-4))
+    
+
+    - Lab 03
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_03_jabref.html#sec-problem-1))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_03_jabref.html#sec-problem-2))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_03_jabref.html#sec-problem-3))
+    
+    
+    - Lab 04
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_04_data.html#sec-problem-1))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_04_data.html#sec-problem-2))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_04_data.html#sec-problem-3))
+        - Problem 4: up to 3 points ([link](labs/CS_1_lab_04_data.html#sec-problem-4))
+    
+    
+    - Lab 06
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_06_jamovi_2.html#sec-problem-1))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_06_jamovi_2.html#sec-problem-2))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_06_jamovi_2.html#sec-problem-3))
+        - Problem 4: up to 3 points ([link](labs/CS_1_lab_06_jamovi_2.html#sec-problem-4))
+    
+    
+    - Lab 07
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-1))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-2))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-3))
+        - Problem 4: up to 3 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-4))
+        - Problem 5: up to 3 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-5))
+        - Problem 6: up to 3 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-6))
+        - Problem 7: up to 3 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-7))
+        - Problem 8: up to 3 points ([link](labs/CS_1_lab_07_jamovi_3.html#sec-problem-8))
+    
+    
+    - Lab 08
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_08_jamovi_4.html#sec-comics-01))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_08_jamovi_4.html#sec-survey-01))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_08_jamovi_4.html#sec-problem-3))
+        - Problem 4: up to 3 points ([link](labs/CS_1_lab_08_jamovi_4.html#sec-problem-4))
+        - Problem 5: up to 3 points ([link](labs/CS_1_lab_08_jamovi_4.html#sec-problem-5))
+    
+    
+    - Lab 09
+    
+        - Problem 1: up to 2 points ([link](labs/CS_1_lab_09_jamovi_5.html#sec-problem-1))
+        - Problem 2: up to 2 points ([link](labs/CS_1_lab_09_jamovi_5.html#sec-problem-2))
+        - Problem 3: up to 3 points ([link](labs/CS_1_lab_09_jamovi_5.html#sec-problem-3))
+        - Problem 4: up to 3 points ([link](labs/CS_1_lab_09_jamovi_5.html#sec-problem-4))
+    
+    
+    - Lab 10
+    
+        - Problem 1: up to 4 points ([link](labs/CS_1_lab_10_word.html#sec-problem-1))
+        - Problem 2: up to 4 points ([link](labs/CS_1_lab_10_word.html#sec-problem-2))
+    
+    
+    - Lab 11
+    
+        - Problem 1: up to 4 points ([link](labs/CS_1_lab_11_pptx.html#sec-problem-1))
+        - Problem 2: up to 4 points ([link](labs/CS_1_lab_11_pptx.html#sec-problem-2))
+
+
+
+
+The @tbl-grading shows the grading scale. A student's final grade will be determined by the total number of points earned during the semester. The final grade will be determined as follows:
+
+
 | Points | Grade offered |
 |--------|---------------|
 | 0--50  | 1 (failed)    |
@@ -78,7 +168,10 @@ During the semester there will be 4 homework assignments and one project. Extra 
 | 75--85 | 4             |
 | 86--   | 5             |
 
-: Grading {.striped .hover .w-auto .mx-auto}
+: Grading {#tbl-grading .striped .hover .w-auto .mx-auto}
+
+Students can earn a maximum of 100 points through the homework assignments and the project work, to which extra points are added.
+
 
 ## Course details
 
