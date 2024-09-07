@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Computer Science 1",
     "section": "",
-    "text": "Contact\n\nYear: 2024/25/1, Semester 1\nClass Location: P/106/A, Institute of Psychology, University of Debrecen\nMeeting Times: Tuesday 10:00 - 11:40\nContact Information: Please contact me through email anytime: abari.kalman@arts.unideb.hu",
+    "text": "Contact\n\nYear: 2024/25/1, Semester 1\nClass Location: P/106/A, Institute of Psychology, University of Debrecen\nMeeting Times: Tuesday 10:00 - 11:40\nContact Information: Please contact me through email anytime: abari.kalman@arts.unideb.hu\nRegistration table for homework assignments and grades: link to the spreadsheet",
     "crumbs": [
       "Contact"
     ]
@@ -134,7 +134,7 @@
     "href": "details.html#sec-04",
     "title": "2  Course details",
     "section": "2.4 JabRef - Bibliography management",
-    "text": "2.4 JabRef - Bibliography management\n\nReadings:\n\nJabRef: Getting started\nQuarto: Citations & Footnotes\n\nProblems\n\nLab 09",
+    "text": "2.4 JabRef - Bibliography management\n\nReadings:\n\nJabRef: Getting started\nQuarto: Citations & Footnotes\n\nProblems\n\nLab 03",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]
@@ -144,7 +144,7 @@
     "href": "details.html#sec-05",
     "title": "2  Course details",
     "section": "2.5 TXT, CSV, Spreadsheets",
-    "text": "2.5 TXT, CSV, Spreadsheets\n\nReadings:\n\nWhat is Tabular Data?\nUniversity of Helsinki (2023) P.3 Spreadsheets\n\nProblems\n\nLab 03",
+    "text": "2.5 TXT, CSV, Spreadsheets\n\nReadings:\n\nWhat is Tabular Data?\nUniversity of Helsinki (2023) P.3 Spreadsheets\n\nProblems\n\nLab 04",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]
@@ -154,7 +154,7 @@
     "href": "details.html#sec-06",
     "title": "2  Course details",
     "section": "2.6 Jamovi - Introduction",
-    "text": "2.6 Jamovi - Introduction\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 43–49)\nPoulson (2019)\n\nWelcome\nInstalling jamovi\nNavigating jamovi\n\n\nProblems\n\nLab 04",
+    "text": "2.6 Jamovi - Introduction\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 43–49)\nPoulson (2019)\n\nWelcome\nInstalling jamovi\nNavigating jamovi\n\n\nProblems\n\nLab 05",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]
@@ -164,7 +164,7 @@
     "href": "details.html#sec-07",
     "title": "2  Course details",
     "section": "2.7 Jamovi - Import data, Data conversion",
-    "text": "2.7 Jamovi - Import data, Data conversion\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 49–54)\nPoulson (2019)\n\nSample data\njamovi modules\nEntering data\nImporting data\nVariable types & labels\n\n\nProblems\n\nLab 05",
+    "text": "2.7 Jamovi - Import data, Data conversion\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 49–54)\nPoulson (2019)\n\nSample data\njamovi modules\nEntering data\nImporting data\nVariable types & labels\n\n\nProblems\n\nLab 06",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]
@@ -174,7 +174,7 @@
     "href": "details.html#sec-08",
     "title": "2  Course details",
     "section": "2.8 Jamovi - Data transformation",
-    "text": "2.8 Jamovi - Data transformation\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 97–117)\nPoulson (2019)\n\nWrangling data: chapter overview\nComputing means\nComputing z-scores\nTransforming scores to categories\nFiltering cases\n\n\nProblems\n\nLab 06",
+    "text": "2.8 Jamovi - Data transformation\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 97–117)\nPoulson (2019)\n\nWrangling data: chapter overview\nComputing means\nComputing z-scores\nTransforming scores to categories\nFiltering cases\n\n\nProblems\n\nLab 07",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]
@@ -184,7 +184,7 @@
     "href": "details.html#sec-09",
     "title": "2  Course details",
     "section": "2.9 Jamovi - Descriptive statistics I.",
-    "text": "2.9 Jamovi - Descriptive statistics I.\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 59–84)\nPoulson (2019)\n\nExploration: chapter overview\nDescriptive statistics\n\n\nProblems\n\nLab 07",
+    "text": "2.9 Jamovi - Descriptive statistics I.\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 59–84)\nPoulson (2019)\n\nExploration: chapter overview\nDescriptive statistics\n\n\nProblems\n\nLab 08",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]
@@ -194,7 +194,7 @@
     "href": "details.html#sec-10",
     "title": "2  Course details",
     "section": "2.10 Jamovi - Descriptive statistics II.",
-    "text": "2.10 Jamovi - Descriptive statistics II.\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 85–96)\nPoulson (2019)\n\nHistograms\nDensity plots\nBox plots\nViolin plots\nDot plots\nBar plots\nExporting tables & plots\n\n\nProblems\n\nLab 08",
+    "text": "2.10 Jamovi - Descriptive statistics II.\n\nReadings:\n\nNavarro & Foxcroft (2022, pp. 85–96)\nPoulson (2019)\n\nHistograms\nDensity plots\nBox plots\nViolin plots\nDot plots\nBar plots\nExporting tables & plots\n\n\nProblems\n\nLab 09",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course details</span>"
     ]

@@ -56,7 +56,7 @@
    - [JabRef: Getting started](https://docs.jabref.org/getting-started)
    - [Quarto: Citations & Footnotes](https://quarto.org/docs/authoring/footnotes-and-citations.html)
 - Problems
-    - [Lab 09](labs/CS_1_lab_03_jabref.html){target="_blank"}
+    - [Lab 03](labs/CS_1_lab_03_jabref.html){target="_blank"}
     
     
 ## TXT, CSV, Spreadsheets {#sec-05}
@@ -65,7 +65,7 @@
     - [What is Tabular Data?](https://www.statology.org/tabular-data/)
     - @uoh2023 [P.3 Spreadsheets](https://blogs.helsinki.fi/students-digital-skills/advanced-studies-presenting-data/p-3-spreadsheets/)
 - Problems
-    - [Lab 03](labs/CS_1_lab_04_data.html){target="_blank"}
+    - [Lab 04](labs/CS_1_lab_04_data.html){target="_blank"}
 
 
 ## Jamovi - Introduction {#sec-06}
@@ -77,7 +77,7 @@
         - Installing jamovi
         - Navigating jamovi
 - Problems
-    - [Lab 04](labs/CS_1_lab_05_jamovi_1.html){target="_blank"}
+    - [Lab 05](labs/CS_1_lab_05_jamovi_1.html){target="_blank"}
 
 
 ## Jamovi - Import data, Data conversion {#sec-07}
@@ -91,7 +91,7 @@
         - Importing data
         - Variable types & labels
 - Problems
-    - [Lab 05](labs/CS_1_lab_06_jamovi_2.html){target="_blank"}
+    - [Lab 06](labs/CS_1_lab_06_jamovi_2.html){target="_blank"}
 
 
 ## Jamovi - Data transformation {#sec-08}
@@ -105,7 +105,7 @@
         - Transforming scores to categories
         - Filtering cases
 - Problems
-    - [Lab 06](labs/CS_1_lab_07_jamovi_3.html){target="_blank"}    
+    - [Lab 07](labs/CS_1_lab_07_jamovi_3.html){target="_blank"}    
 
 
 ## Jamovi - Descriptive statistics I. {#sec-09}
@@ -117,7 +117,7 @@
         - Exploration: chapter overview
         - Descriptive statistics
 - Problems
-    - [Lab 07](labs/CS_1_lab_08_jamovi_4.html){target="_blank"}    
+    - [Lab 08](labs/CS_1_lab_08_jamovi_4.html){target="_blank"}    
 
 
 ## Jamovi - Descriptive statistics II. {#sec-10}
@@ -133,7 +133,7 @@
         - Bar plots
         - Exporting tables & plots
 - Problems
-    - [Lab 08](labs/CS_1_lab_09_jamovi_5.html){target="_blank"}
+    - [Lab 09](labs/CS_1_lab_09_jamovi_5.html){target="_blank"}
 
 ## Word processing - Styles, TOC, Bibliography, APA7 {#sec-11}
 

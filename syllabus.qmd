@@ -10,7 +10,8 @@ bibliography: references.bib
 **Year**: 2024/25/1, Semester 1 (Autumn)\
 **Class Location**: P/106/A, Institute of Psychology, University of Debrecen\
 **Meeting Times**: Tuesday 10:00 - 11:40\
-**Contact Information**: Please contact me through email anytime: [abari.kalman\@arts.unideb.hu](mailto:abari.kalman@arts.unideb.hu){.email}
+**Contact Information**: Please contact me through email anytime: [abari.kalman\@arts.unideb.hu](mailto:abari.kalman@arts.unideb.hu){.email}  
+**Registration table for homework assignments and grades**: [link to the spreadsheet](https://docs.google.com/spreadsheets/d/1hsiWS0BP9_FEEUQl95YD6IGFd07mSnGsNedcaqaChNc/edit?gid=0#gid=0)
 
 ## Course overview
 
